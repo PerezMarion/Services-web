@@ -1,0 +1,3 @@
+com\mycompany\apiwebrestaurant\api\MealApi.class
+com\mycompany\apiwebrestaurant\business\Meal.class
+com\mycompany\apiwebrestaurant\business\Directory.class
